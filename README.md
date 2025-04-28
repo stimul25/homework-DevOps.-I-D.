@@ -76,7 +76,6 @@
 
 ![im 1](img/51.png)
 ![im 2](img/52.png)
-![im 3](img/53.png)
 ![im 4](img/54.png)
 ![im 5](img/55.png)
 
