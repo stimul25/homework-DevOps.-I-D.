@@ -42,7 +42,6 @@
 ![im 7](img/37.png)
 ![im 8](img/38.png)
 ![im 9](img/39.png)
-![im 10](img/40.png)
 ![im 11](img/41.png)
 
 ---
